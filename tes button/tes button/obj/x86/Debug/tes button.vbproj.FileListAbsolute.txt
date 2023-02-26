@@ -1,0 +1,12 @@
+C:\Users\ACER\AppData\Local\Temporary Projects\tes button\bin\Debug\tes button.exe
+C:\Users\ACER\AppData\Local\Temporary Projects\tes button\bin\Debug\tes button.pdb
+C:\Users\ACER\AppData\Local\Temporary Projects\tes button\bin\Debug\tes button.xml
+C:\Users\ACER\AppData\Local\Temporary Projects\tes button\obj\x86\Debug\tes_button.Form1.resources
+C:\Users\ACER\AppData\Local\Temporary Projects\tes button\obj\x86\Debug\tes_button.Resources.resources
+C:\Users\ACER\AppData\Local\Temporary Projects\tes button\obj\x86\Debug\tes button.vbproj.GenerateResource.Cache
+C:\Users\ACER\AppData\Local\Temporary Projects\tes button\obj\x86\Debug\tes button.exe
+C:\Users\ACER\AppData\Local\Temporary Projects\tes button\obj\x86\Debug\tes button.xml
+C:\Users\ACER\AppData\Local\Temporary Projects\tes button\obj\x86\Debug\tes button.pdb
+C:\Users\ACER\documents\visual studio 2010\Projects\tes button\tes button\obj\x86\Debug\tes button.exe
+C:\Users\ACER\documents\visual studio 2010\Projects\tes button\tes button\obj\x86\Debug\tes button.xml
+C:\Users\ACER\documents\visual studio 2010\Projects\tes button\tes button\obj\x86\Debug\tes button.pdb

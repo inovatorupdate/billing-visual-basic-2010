@@ -1,0 +1,24 @@
+C:\Users\ACER\documents\visual studio 2010\Projects\billingbiil\billingbiil\bin\Debug\billingbiil.exe
+C:\Users\ACER\documents\visual studio 2010\Projects\billingbiil\billingbiil\bin\Debug\billingbiil.pdb
+C:\Users\ACER\documents\visual studio 2010\Projects\billingbiil\billingbiil\bin\Debug\billingbiil.xml
+C:\Users\ACER\documents\visual studio 2010\Projects\billingbiil\billingbiil\obj\x86\Debug\billingbiil.Form1.resources
+C:\Users\ACER\documents\visual studio 2010\Projects\billingbiil\billingbiil\obj\x86\Debug\billingbiil.Resources.resources
+C:\Users\ACER\documents\visual studio 2010\Projects\billingbiil\billingbiil\obj\x86\Debug\billingbiil.vbproj.GenerateResource.Cache
+C:\Users\ACER\documents\visual studio 2010\Projects\billingbiil\billingbiil\obj\x86\Debug\billingbiil.exe
+C:\Users\ACER\documents\visual studio 2010\Projects\billingbiil\billingbiil\obj\x86\Debug\billingbiil.xml
+C:\Users\ACER\documents\visual studio 2010\Projects\billingbiil\billingbiil\obj\x86\Debug\billingbiil.pdb
+C:\Users\ACER\documents\visual studio 2010\Projects\billingbiil\billingbiil\obj\x86\Debug\billingbiil.Dashboard.resources
+C:\Users\ACER\documents\visual studio 2010\Projects\billingbiil\billingbiil\obj\x86\Debug\billingbiil.Fconnect.resources
+C:\Users\ACER\documents\visual studio 2010\Projects\billingbiil\billingbiil\obj\x86\Debug\billingbiil.Billing1.resources
+E:\[Download.Ipeenk.com] Microsoft Visual Basic 2010 Express\aplikasi penjualan\Projects\Projects\billingbiil\billingbiil\obj\x86\Debug\billingbiil.exe
+E:\[Download.Ipeenk.com] Microsoft Visual Basic 2010 Express\aplikasi penjualan\Projects\Projects\billingbiil\billingbiil\obj\x86\Debug\billingbiil.xml
+E:\[Download.Ipeenk.com] Microsoft Visual Basic 2010 Express\aplikasi penjualan\Projects\Projects\billingbiil\billingbiil\obj\x86\Debug\billingbiil.pdb
+E:\[Download.Ipeenk.com] Microsoft Visual Basic 2010 Express\aplikasi penjualan\Projects\Projects\billingbiil\billingbiil\obj\x86\Debug\billingbiil.Dashboard.resources
+E:\[Download.Ipeenk.com] Microsoft Visual Basic 2010 Express\aplikasi penjualan\Projects\Projects\billingbiil\billingbiil\obj\x86\Debug\billingbiil.Fconnect.resources
+E:\[Download.Ipeenk.com] Microsoft Visual Basic 2010 Express\aplikasi penjualan\Projects\Projects\billingbiil\billingbiil\obj\x86\Debug\billingbiil.Form1.resources
+E:\[Download.Ipeenk.com] Microsoft Visual Basic 2010 Express\aplikasi penjualan\Projects\Projects\billingbiil\billingbiil\obj\x86\Debug\billingbiil.Billing1.resources
+E:\[Download.Ipeenk.com] Microsoft Visual Basic 2010 Express\aplikasi penjualan\Projects\Projects\billingbiil\billingbiil\obj\x86\Debug\billingbiil.Resources.resources
+E:\[Download.Ipeenk.com] Microsoft Visual Basic 2010 Express\aplikasi penjualan\Projects\Projects\billingbiil\billingbiil\obj\x86\Debug\billingbiil.vbproj.GenerateResource.Cache
+E:\[Download.Ipeenk.com] Microsoft Visual Basic 2010 Express\aplikasi penjualan\Projects\Projects\billingbiil\billingbiil\bin\Debug\billingbiil.exe
+E:\[Download.Ipeenk.com] Microsoft Visual Basic 2010 Express\aplikasi penjualan\Projects\Projects\billingbiil\billingbiil\bin\Debug\billingbiil.pdb
+E:\[Download.Ipeenk.com] Microsoft Visual Basic 2010 Express\aplikasi penjualan\Projects\Projects\billingbiil\billingbiil\bin\Debug\billingbiil.xml

@@ -1,0 +1,3 @@
+C:\Users\ACER\AppData\Local\Temporary Projects\billingbi\obj\x86\Debug\billingbi.Form1.resources
+C:\Users\ACER\AppData\Local\Temporary Projects\billingbi\obj\x86\Debug\billingbi.Resources.resources
+C:\Users\ACER\AppData\Local\Temporary Projects\billingbi\obj\x86\Debug\billingbi.vbproj.GenerateResource.Cache
